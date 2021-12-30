@@ -1,0 +1,46 @@
+.box-1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border: 2px solid green;
+}
+.box-4{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border: 2px solid green;
+}
+.box-2{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border: 2px solid rgb(0, 0, 0);
+}
+.box-3{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border: 2px solid rgb(0, 0, 0);
+}
+.mainbox{
+    display: flex;
+    justify-content: space-between;
+}
+.main-container{
+    display: flex;
+    justify-content: space-between;
+}
+.boro-box{
+    height: 300px;
+    width: 100%;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.coto-2{
+  
+}
+.coto-1{
+    margin-right: 50px;
+}
